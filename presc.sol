@@ -1,8 +1,4 @@
 
-Nilesh Matai
-2:36 PM (1 minute ago)
-to Rahul
-
 pragma solidity ^0.4.20;
 
 contract doctor{
